@@ -1,0 +1,50 @@
+# Ignore build output
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.logs
+
+# IntelliJ IDEA
+*.iml
+.idea/
+.idea
+
+# Eclipse
+.eclipse
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+# Python/Jupyter local junk 
+**/.ipynb_checkpoints/ 
+**/.jupyter/ 
+**/.ipython/ 
+**/.local/ 
+**/.npm/ 
+**/.config/ 
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter / IPython
+.ipython/
+.jupyter/
+.local/
+
+# CLI / Config
+.config/
+.npm/
+
+# OS
+.DS_Store
+Thumbs.db
