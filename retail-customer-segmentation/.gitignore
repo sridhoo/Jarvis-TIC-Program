@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter / IPython
+.ipython/
+.jupyter/
+.local/
+
+# CLI / Config
+.config/
+.npm/
+
+# OS
+.DS_Store
+Thumbs.db
